@@ -50,3 +50,4 @@ while repeat:
     if input() == '0': 
         repeat = False
         print("Вы вышли из программы.")
+        
